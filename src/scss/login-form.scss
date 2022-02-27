@@ -1,0 +1,24 @@
+
+
+.login-form {
+    width: 500px;
+    height: 300px;
+    background-color: beige;
+    padding: 50px;
+    text-align: center;
+    border: 2px solid rgb(207, 207, 174);
+    border-radius: 30px;
+
+    input {
+        display: block;
+        width: 100%;
+        margin: 20px 0;
+        padding: 5px;
+    }
+    button[type=submit] {
+        width: 100px;
+        height: 30px;
+        margin-top: 20px;
+    }
+    
+}

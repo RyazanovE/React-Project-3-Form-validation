@@ -1,0 +1,22 @@
+@import 'login-form';
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  h1 {
+    position: absolute;
+    top: 20%;
+}
+
+}
